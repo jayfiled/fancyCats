@@ -1,5 +1,5 @@
 {
-  "name": "robofriends",
+  "name": "fancyCats",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,7 +8,7 @@
     "react-scripts": "2.1.1",
     "tachyons": "^4.11.1"
   },
-  "homepage": "http://jayfiled.github.io/ZeroToMasteryProjects/projects/robotFriends",
+  "homepage": "http://jayfiled.github.io/fancyCats",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
